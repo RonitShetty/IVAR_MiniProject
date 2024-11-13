@@ -51,6 +51,10 @@ Open the CarModifier script.
 Uncomment the relevant section in the private void Start method to set your desired starting cash.
 Notice: This simulator was built on Windows 11 and has been tested on Windows platforms only.
 
+Demonstration:
+
+https://drive.google.com/drive/folders/1ZUhQi90ZWXbAKsYUXqwCMdlvgkgd0VWd?dmr=1&ec=wgc-drive-globalnav-goto
+
 🌟 Why Choose This Simulator?
 Realistic Gameplay: Our focus on AI, graphics, and animations ensures a lifelike racing experience.
 Developer-Friendly: Whether you're looking to learn or expand your Unity skills, our well-documented project structure makes it easy to dive in.
